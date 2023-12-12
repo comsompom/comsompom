@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelegence algorithms
 - 💞️ I’m looking to collaborate on interesting projects like Team Working in big projects. Looking the availability for the full-time contract
 - 📫 How to reach me: by email: iogan_new@yahoo.com
+- My LinkedIn Profile: https://www.linkedin.com/in/oleg-bourdo-8a2360139/
 
 <!---
 comsompom/comsompom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
