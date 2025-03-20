@@ -6,6 +6,9 @@
 - 📫 How to reach me: by email: iogan_new@yahoo.com
 - My LinkedIn Profile: https://www.linkedin.com/in/oleg-bourdo-8a2360139/
 - My LeetCode Profile: https://leetcode.com/u/OlegBourdo/
+- My Telegram chanel for Python: @python_senior_role
+
+**“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”** - *Abraham Lincoln*
 
 <!---
 comsompom/comsompom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
