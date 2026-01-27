@@ -10,7 +10,7 @@
   - **LinkedIn** Profile: https://www.linkedin.com/in/oleg-bourdo-8a2360139/
   - **LeetCode** Profile: https://leetcode.com/u/OlegBourdo/
   - **Telegram** chanel for Python: [@python_senior_role](https://t.me/python_senior_role)
-  - **StartUp**: https://moonhome.agency/
+  - **StartUp**: https://moonhome.agency/  |  https://comsompom.github.io/RnD_IoT_StartUP/
 
 
 <!---
