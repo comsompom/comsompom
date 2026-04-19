@@ -11,7 +11,6 @@
   - **LeetCode** Profile: https://leetcode.com/u/OlegBourdo/
   - **Telegram** Python chanel: [@python_senior_role](https://t.me/python_senior_role)
   - **StartUp**: https://moonhome.agency/
-  - **Drone Plane Project**: https://www.aeromagija.com/
   - **GitHub Page**: https://comsompom.github.io/RnD_IoT_StartUP/
 
 
